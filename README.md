@@ -47,6 +47,10 @@ Here's a non exhaustive list of publishers on pub.dev that I trust in the qualit
     * [status_alert](https://pub.dev/packages/status_alert)
 * **Codelessly**: [codelessly.com](https://pub.dev/publishers/codelessly.com/packages)
     * [responsive_framework](https://pub.dev/packages/responsive_framework)
+* **Simform Solutions**: [simform.com](https://pub.dev/publishers/simform.com/packages)
+    * [showcaseview](https://pub.dev/packages/showcaseview)
+    * [flutter_credit_card](https://pub.dev/packages/flutter_credit_card)
+    * [calendar_view](https://pub.dev/packages/calendar_view)
 
 ## Individuals
 
@@ -83,3 +87,9 @@ Here's a non exhaustive list of publishers on pub.dev that I trust in the qualit
     * [photo_view](https://pub.dev/packages/photo_view)
     * [audioplayers](https://pub.dev/packages/audioplayers)
     * [flame](https://pub.dev/packages/flame)
+* **Diego Velasquez** (GDE Flutter): [diegoveloper.com](https://pub.dev/publishers/diegoveloper.com/packages)
+    * [percent_indicator](https://pub.dev/packages/percent_indicator)
+    * [keyboard_actions](https://pub.dev/packages/keyboard_actions)
+* **Mike Rydstrom**: [rydmike.com](https://pub.dev/publishers/rydmike.com/packages)
+    * [flex_color_scheme](https://pub.dev/packages/flex_color_scheme)
+    * [flex_color_picker](https://pub.dev/packages/flex_color_picker)
