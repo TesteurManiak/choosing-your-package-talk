@@ -6,9 +6,13 @@ Here's a non exhaustive list of publishers on pub.dev that I trust in the qualit
 
 ## Framework/Language maintainers
 
-* **Dart**: [dart.dev](https://pub.dev/publishers/dart.dev/packages), [tools.dart.dev](https://pub.dev/publishers/tools.dart.dev/packages), [labs.dart.dev](https://pub.dev/publishers/labs.dart.dev/packages)
-* **Flutter**: [flutter.dev](https://pub.dev/publishers/flutter.dev/packages), [material.io](https://pub.dev/publishers/material.io/packages)
-* **Google**: [google.dev](https://pub.dev/publishers/google.dev/packages), [firebase.google.com](https://pub.dev/publishers/firebase.google.com/packages)
+* [dart.dev](https://pub.dev/publishers/dart.dev/packages)
+* [tools.dart.dev](https://pub.dev/publishers/tools.dart.dev/packages)
+* [labs.dart.dev](https://pub.dev/publishers/labs.dart.dev/packages)
+* [flutter.dev](https://pub.dev/publishers/flutter.dev/packages)
+* [material.io](https://pub.dev/publishers/material.io/packages)
+* [google.dev](https://pub.dev/publishers/google.dev/packages)
+* [firebase.google.com](https://pub.dev/publishers/firebase.google.com/packages)
 
 ## Companies
 
@@ -37,6 +41,12 @@ Here's a non exhaustive list of publishers on pub.dev that I trust in the qualit
 * **Dailyn**: [dailyn.app](https://pub.dev/publishers/dailyn.app/packages)
     * [flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations)
     * [flutter_phoenix](https://pub.dev/packages/flutter_phoenix)
+* **Yako**: [yako.io](https://pub.dev/publishers/yako.io/packages)
+    * [badges](https://pub.dev/packages/badges)
+    * [settings_ui](https://pub.dev/packages/settings_ui)
+    * [status_alert](https://pub.dev/packages/status_alert)
+* **Codelessly**: [codelessly.com](https://pub.dev/publishers/codelessly.com/packages)
+    * [responsive_framework](https://pub.dev/packages/responsive_framework)
 
 ## Individuals
 
@@ -60,3 +70,16 @@ Here's a non exhaustive list of publishers on pub.dev that I trust in the qualit
     * [flutter_slidable](https://pub.dev/packages/flutter_slidable)
     * [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)
     * [flutter_sticky_header](https://pub.dev/packages/flutter_sticky_header)
+* **Dan Field** (Flutter): [dnfield.dev](https://pub.dev/publishers/dnfield.dev/packages)
+    * [flutter_svg](https://pub.dev/packages/flutter_svg)
+* **Aloïs Deniel** (ClickUp, GDE Flutter): [aloisdeniel.com](https://pub.dev/publishers/aloisdeniel.com/packages)
+    * [device_preview](https://pub.dev/packages/device_preview)
+* **Jaime Blasco** (Very Good Ventures, GDE Flutter): [jaimeblasco.com](https://pub.dev/publishers/jaimeblasco.com/packages)
+    * [modal_bottom_sheet](https://pub.dev/packages/modal_bottom_sheet)
+    * [layout](https://pub.dev/packages/layout)
+* **Guillaume Bernos** (Invertase): [bernos.dev](https://pub.dev/publishers/bernos.dev/packages)
+    * [location](https://pub.dev/packages/location)
+* **Blue Fire**: [blue-fire.xyz](https://pub.dev/publishers/blue-fire.xyz/packages), [flame-engine.org](https://pub.dev/publishers/flame-engine.org/packages)
+    * [photo_view](https://pub.dev/packages/photo_view)
+    * [audioplayers](https://pub.dev/packages/audioplayers)
+    * [flame](https://pub.dev/packages/flame)
