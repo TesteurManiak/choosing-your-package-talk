@@ -51,6 +51,8 @@ Here's a non exhaustive list of publishers on pub.dev that I trust in the qualit
     * [showcaseview](https://pub.dev/packages/showcaseview)
     * [flutter_credit_card](https://pub.dev/packages/flutter_credit_card)
     * [calendar_view](https://pub.dev/packages/calendar_view)
+* **Superlist**: [superlist.com](https://pub.dev/publishers/superlist.com/packages)
+    * [super_editor](https://pub.dev/packages/super_editor)
 
 ## Individuals
 
@@ -93,3 +95,7 @@ Here's a non exhaustive list of publishers on pub.dev that I trust in the qualit
 * **Mike Rydstrom**: [rydmike.com](https://pub.dev/publishers/rydmike.com/packages)
     * [flex_color_scheme](https://pub.dev/packages/flex_color_scheme)
     * [flex_color_picker](https://pub.dev/packages/flex_color_picker)
+* **Flutter Bounty Hunters** (Collective): [flutterbountyhunters.com](https://pub.dev/publishers/flutterbountyhunters.com/packages)
+    * [super_banners](https://pub.dev/packages/super_banners)
+    * [ffmpeg_cli](https://pub.dev/packages/ffmpeg_cli)
+    * [bitmap_canvas](https://pub.dev/packages/bitmap_canvas)
