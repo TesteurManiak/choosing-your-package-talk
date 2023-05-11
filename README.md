@@ -1,5 +1,11 @@
 # Choosing your package - Talk
 
+## Mentioned websites
+
+* [Pub.dev](https://pub.dev)
+* [GitHub](https://github.com)
+* [Flutter Gems](https://fluttergems.dev)
+
 # Trusted Publishers
 
 Here's a non exhaustive list of publishers on pub.dev that I trust in the quality of their work with for each a few of their most notable packages (max 3).
