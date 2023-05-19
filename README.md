@@ -1,14 +1,19 @@
 # Choosing your package - Talk
 
-## Mentioned websites
+[![Join Flutter FR Community](https://dcbadge.vercel.app/api/server/BCqyRcQ2ns?style=flat)](https://discord.gg/BCqyRcQ2ns)
+
+## Credits
 
 * [Pub.dev](https://pub.dev)
 * [GitHub](https://github.com)
 * [Flutter Gems](https://fluttergems.dev)
+* [Icons taken from flaticon's Freepik](https://www.flaticon.com/authors/freepik)
 
 # Trusted Publishers
 
 Here's a non exhaustive list of publishers on pub.dev that I trust in the quality of their work with for each a few of their most notable packages (max 3).
+
+**Do not hesitate to open a PR to add a publisher to this list.**
 
 ## Framework/Language maintainers
 
